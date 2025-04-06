@@ -1,0 +1,13 @@
+To run the tests is necessary to install:
+  NVM with version 1.2.2
+  NPM 10.9.2
+  NODE 23.11.0
+
+To run, open cmd or terminal, go to file directory and run:
+  npx playwright test --ui (to run with UI helper)
+
+The first test is working
+The second I could not validate because the web page has a bug that when you click to Edit a Form Builder,
+the page loads but also the three loading dots keep in the background, preventing the playwright tool to run
+the tests properly.
+I will try to add screenshots to ilustrate what is happening.
