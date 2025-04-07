@@ -4,6 +4,7 @@ To run the tests is necessary to install:
   NODE 23.11.0
 
 To run, open cmd or terminal, go to file directory and run:
+  npx playwright test (to run without UI helper)
   npx playwright test --ui (to run with UI helper)
 
 The first test is working
