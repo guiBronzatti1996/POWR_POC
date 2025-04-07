@@ -11,3 +11,4 @@ The second I could not validate because the web page has a bug that when you cli
 the page loads but also the three loading dots keep in the background, preventing the playwright tool to run
 the tests properly.
 I will try to add screenshots to ilustrate what is happening.
+To see what happened look at the two pictures that are in this Repo
